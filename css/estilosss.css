@@ -1,0 +1,26 @@
+body{
+	background-image: url(../img/2f.jpg);
+	background-position: center;
+	background-size: cover;
+}
+a{
+	color: black;	
+}
+form{
+	border: 1px #a0a solid;
+	box-shadow: 0 0 8px 2px black;
+	padding: 30px;
+	width: 230px;
+}
+
+.violet{
+	color: #green;
+	font-size: 20px;
+
+}
+.btn{
+	width: 80px;
+	background: #a0a;
+	border-radius: 3px;
+
+}

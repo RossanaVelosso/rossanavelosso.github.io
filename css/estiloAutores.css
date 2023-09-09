@@ -1,0 +1,14 @@
+body{
+	background-image: url(../img/2f.jpg);
+	background-position: center;
+	background-size: cover;
+}
+h1{
+	color: yellow;
+	text-shadow: 0 0 15px black; , 0 0 10px white;
+}	
+img{
+	width:500px ;
+	height: 350px;
+	border-block: 50%;
+}
